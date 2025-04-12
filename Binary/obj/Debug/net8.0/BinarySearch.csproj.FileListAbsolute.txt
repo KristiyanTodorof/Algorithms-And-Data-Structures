@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\bin\Debug\net8.0\BinarySearch.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\bin\Debug\net8.0\BinarySearch.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\bin\Debug\net8.0\BinarySearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\bin\Debug\net8.0\BinarySearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\refint\BinarySearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Binary\obj\Debug\net8.0\ref\BinarySearch.dll
