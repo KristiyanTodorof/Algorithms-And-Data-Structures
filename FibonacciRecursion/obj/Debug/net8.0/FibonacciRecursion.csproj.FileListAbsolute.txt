@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\bin\Debug\net8.0\FibonacciRecursion.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\bin\Debug\net8.0\FibonacciRecursion.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\bin\Debug\net8.0\FibonacciRecursion.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\bin\Debug\net8.0\FibonacciRecursion.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\bin\Debug\net8.0\FibonacciRecursion.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\refint\FibonacciRecursion.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\FibonacciRecursion.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FibonacciRecursion\obj\Debug\net8.0\ref\FibonacciRecursion.dll
