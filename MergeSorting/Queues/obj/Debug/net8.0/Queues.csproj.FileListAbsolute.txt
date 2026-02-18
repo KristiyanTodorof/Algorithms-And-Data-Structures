@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\bin\Debug\net8.0\Queues.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\bin\Debug\net8.0\Queues.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\bin\Debug\net8.0\Queues.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\bin\Debug\net8.0\Queues.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\bin\Debug\net8.0\Queues.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\refint\Queues.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\Queues.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Queues\obj\Debug\net8.0\ref\Queues.dll

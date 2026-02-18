@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\bin\Debug\net8.0\SequentialSearch.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\bin\Debug\net8.0\SequentialSearch.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\bin\Debug\net8.0\SequentialSearch.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\bin\Debug\net8.0\SequentialSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\bin\Debug\net8.0\SequentialSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\refint\SequentialSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\SequentialSearch.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\SequentialSearch\obj\Debug\net8.0\ref\SequentialSearch.dll

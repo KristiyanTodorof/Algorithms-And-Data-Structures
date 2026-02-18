@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\bin\Debug\net8.0\FibonacciSearch.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\bin\Debug\net8.0\FibonacciSearch.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\bin\Debug\net8.0\FibonacciSearch.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\bin\Debug\net8.0\FibonacciSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\bin\Debug\net8.0\FibonacciSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\refint\FibonacciSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\FibonacciSearch.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\Fibonacci\obj\Debug\net8.0\ref\FibonacciSearch.dll

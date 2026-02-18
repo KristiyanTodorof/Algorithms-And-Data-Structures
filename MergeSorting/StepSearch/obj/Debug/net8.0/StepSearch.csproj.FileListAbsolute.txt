@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\bin\Debug\net8.0\StepSearch.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\bin\Debug\net8.0\StepSearch.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\bin\Debug\net8.0\StepSearch.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\bin\Debug\net8.0\StepSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\bin\Debug\net8.0\StepSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\refint\StepSearch.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\StepSearch.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\StepSearch\obj\Debug\net8.0\ref\StepSearch.dll

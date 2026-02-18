@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\bin\Debug\net8.0\FindMinimum.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\bin\Debug\net8.0\FindMinimum.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\bin\Debug\net8.0\FindMinimum.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\bin\Debug\net8.0\FindMinimum.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\bin\Debug\net8.0\FindMinimum.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\refint\FindMinimum.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\FindMinimum.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\FindMinimum\obj\Debug\net8.0\ref\FindMinimum.dll

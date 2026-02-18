@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\bin\Debug\net8.0\Sort.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\bin\Debug\net8.0\Sort.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\bin\Debug\net8.0\Sort.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\bin\Debug\net8.0\Sort.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\bin\Debug\net8.0\Sort.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\refint\Sort.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\Sort.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\MergeSorting\MergeSortExample\obj\Debug\net8.0\ref\Sort.dll

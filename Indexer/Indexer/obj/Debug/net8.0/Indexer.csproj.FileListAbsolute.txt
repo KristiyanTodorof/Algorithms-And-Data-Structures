@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\bin\Debug\net8.0\Indexer.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\bin\Debug\net8.0\Indexer.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\bin\Debug\net8.0\Indexer.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\bin\Debug\net8.0\Indexer.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\bin\Debug\net8.0\Indexer.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\refint\Indexer.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\AS\Indexer\Indexer\obj\Debug\net8.0\ref\Indexer.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/zCsijKcGE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedList\\LinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\anglesharp\\1.2.0\\anglesharp.1.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

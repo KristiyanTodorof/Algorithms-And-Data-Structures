@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\binarytree\\treetraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\treetraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\binarytree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA85A40-1A63-4F10-8071-41779F8BA737}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5ACB31-6348-4983-B53E-F75456A9746D}|Queues\\Queues.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5ACB31-6348-4983-B53E-F75456A9746D}|Queues\\Queues.csproj|solutionrelative:queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5ACB31-6348-4983-B53E-F75456A9746D}|Queues\\Queues.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\queues\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5ACB31-6348-4983-B53E-F75456A9746D}|Queues\\Queues.csproj|solutionrelative:queues\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlistcontestants\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|solutionrelative:linkedlistcontestants\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A1F115-EC3D-4FEB-8B4B-231C22551D1A}|LinkedList\\LinkedList.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A1F115-EC3D-4FEB-8B4B-231C22551D1A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlistcontestants\\contestantlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|solutionrelative:linkedlistcontestants\\contestantlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlistcontestants\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|solutionrelative:linkedlistcontestants\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlistcontestants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC00C54-FFD9-40A4-B5EA-7ED4D86BACEC}|LinkedListContestants\\LinkedListContestants.csproj|solutionrelative:linkedlistcontestants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A1F115-EC3D-4FEB-8B4B-231C22551D1A}|LinkedList\\LinkedList.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\linkedlist\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A1F115-EC3D-4FEB-8B4B-231C22551D1A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A43EA4F-56C5-40D7-B4EF-B1F6CC5C037E}|Power\\Power.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A43EA4F-56C5-40D7-B4EF-B1F6CC5C037E}|Power\\Power.csproj|solutionrelative:power\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E8B514-106A-4C5B-86BE-A56B9425B57C}|FibonacciRecursion\\FibonacciRecursion.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\fibonaccirecursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E8B514-106A-4C5B-86BE-A56B9425B57C}|FibonacciRecursion\\FibonacciRecursion.csproj|solutionrelative:fibonaccirecursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB80456-0FF3-4764-AE4B-7329A140088E}|Euclid\\Euclid.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\euclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB80456-0FF3-4764-AE4B-7329A140088E}|Euclid\\Euclid.csproj|solutionrelative:euclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA0DF56-1696-44FA-A701-D986E676CA85}|HeapSort\\HeapSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\heapsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA0DF56-1696-44FA-A701-D986E676CA85}|HeapSort\\HeapSort.csproj|solutionrelative:heapsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA0DF56-1696-44FA-A701-D986E676CA85}|HeapSort\\HeapSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\heapsort\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA0DF56-1696-44FA-A701-D986E676CA85}|HeapSort\\HeapSort.csproj|solutionrelative:heapsort\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3D381B-3CF2-4C1B-9419-AE7C24369420}|SiftAlgorithm\\SiftAlgorithm.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\siftalgorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3D381B-3CF2-4C1B-9419-AE7C24369420}|SiftAlgorithm\\SiftAlgorithm.csproj|solutionrelative:siftalgorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3D381B-3CF2-4C1B-9419-AE7C24369420}|SiftAlgorithm\\SiftAlgorithm.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\siftalgorithm\\siftal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3D381B-3CF2-4C1B-9419-AE7C24369420}|SiftAlgorithm\\SiftAlgorithm.csproj|solutionrelative:siftalgorithm\\siftal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D1C642-2BB8-47EC-8C41-A83C105D4C6E}|StepSearch\\StepSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\stepsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D1C642-2BB8-47EC-8C41-A83C105D4C6E}|StepSearch\\StepSearch.csproj|solutionrelative:stepsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D1C642-2BB8-47EC-8C41-A83C105D4C6E}|StepSearch\\StepSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\stepsearch\\stepsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D1C642-2BB8-47EC-8C41-A83C105D4C6E}|StepSearch\\StepSearch.csproj|solutionrelative:stepsearch\\stepsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CB66D8-8D6D-4BBC-A624-257E3865C8A3}|SequentialSearch\\SequentialSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\sequentialsearch\\sequentialsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CB66D8-8D6D-4BBC-A624-257E3865C8A3}|SequentialSearch\\SequentialSearch.csproj|solutionrelative:sequentialsearch\\sequentialsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CB66D8-8D6D-4BBC-A624-257E3865C8A3}|SequentialSearch\\SequentialSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\sequentialsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CB66D8-8D6D-4BBC-A624-257E3865C8A3}|SequentialSearch\\SequentialSearch.csproj|solutionrelative:sequentialsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188E56-237F-4E82-8F2B-11057784349C}|InsertionSort\\InsertionSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188E56-237F-4E82-8F2B-11057784349C}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188E56-237F-4E82-8F2B-11057784349C}|InsertionSort\\InsertionSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\insertionsort\\insertionsortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188E56-237F-4E82-8F2B-11057784349C}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\insertionsortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B43A7-4E36-47F3-A788-3143A172BA96}|FindMinimum\\FindMinimum.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\findminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B43A7-4E36-47F3-A788-3143A172BA96}|FindMinimum\\FindMinimum.csproj|solutionrelative:findminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B43A7-4E36-47F3-A788-3143A172BA96}|FindMinimum\\FindMinimum.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\findminimum\\findminimumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B43A7-4E36-47F3-A788-3143A172BA96}|FindMinimum\\FindMinimum.csproj|solutionrelative:findminimum\\findminimumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C485DAC2-47D1-4189-9873-9AEBAB67EEE6}|Fibonacci\\FibonacciSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C485DAC2-47D1-4189-9873-9AEBAB67EEE6}|Fibonacci\\FibonacciSearch.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C485DAC2-47D1-4189-9873-9AEBAB67EEE6}|Fibonacci\\FibonacciSearch.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\fibonacci\\fibonaccisearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C485DAC2-47D1-4189-9873-9AEBAB67EEE6}|Fibonacci\\FibonacciSearch.csproj|solutionrelative:fibonacci\\fibonaccisearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29418EF6-5622-4807-8094-1770EE76A830}|MergeSortExample\\MergeSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\mergesortexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29418EF6-5622-4807-8094-1770EE76A830}|MergeSortExample\\MergeSort.csproj|solutionrelative:mergesortexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29418EF6-5622-4807-8094-1770EE76A830}|MergeSortExample\\MergeSort.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\as\\mergesorting\\mergesortexample\\mergesortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29418EF6-5622-4807-8094-1770EE76A830}|MergeSortExample\\MergeSort.csproj|solutionrelative:mergesortexample\\mergesortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\BubbleSortExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BubbleSort\\BubbleSortExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BubbleSort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Binary\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\BinarySearchExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Binary\\BinarySearchExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\TreeTraversal.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\TreeTraversal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\TreeTraversal.cs",
+              "RelativeToolTip": "BinaryTree\\TreeTraversal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:59:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\Node.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\Node.cs",
+              "RelativeToolTip": "BinaryTree\\Node.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:56:46.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BinaryTree\\Program.cs",
+              "RelativeToolTip": "BinaryTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:55:43.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Queues\\Node.cs",
+              "RelativeDocumentMoniker": "Queues\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Queues\\Node.cs",
+              "RelativeToolTip": "Queues\\Node.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:49:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Queues\\Program.cs",
+              "RelativeDocumentMoniker": "Queues\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Queues\\Program.cs",
+              "RelativeToolTip": "Queues\\Program.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAAPEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:49:33.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContestantLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\ContestantLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListContestants\\ContestantLinkedList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\ContestantLinkedList.cs",
+              "RelativeToolTip": "LinkedListContestants\\ContestantLinkedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:33:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedListContestants\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Node.cs",
+              "RelativeToolTip": "LinkedListContestants\\Node.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:31:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contestant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Contestant.cs",
+              "RelativeDocumentMoniker": "LinkedListContestants\\Contestant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Contestant.cs",
+              "RelativeToolTip": "LinkedListContestants\\Contestant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:28:23.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedListContestants\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedListContestants\\Program.cs",
+              "RelativeToolTip": "LinkedListContestants\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:28:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedList\\Node.cs",
+              "RelativeToolTip": "LinkedList\\Node.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:51:10.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingleLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedList\\SingleLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList\\SingleLinkedList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\LinkedList\\SingleLinkedList.cs",
+              "RelativeToolTip": "LinkedList\\SingleLinkedList.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:48:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Power\\Program.cs",
+              "RelativeDocumentMoniker": "Power\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Power\\Program.cs",
+              "RelativeToolTip": "Power\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:24:27.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FibonacciRecursion\\Program.cs",
+              "RelativeDocumentMoniker": "FibonacciRecursion\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FibonacciRecursion\\Program.cs",
+              "RelativeToolTip": "FibonacciRecursion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:53:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Euclid\\Program.cs",
+              "RelativeDocumentMoniker": "Euclid\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Euclid\\Program.cs",
+              "RelativeToolTip": "Euclid\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:39:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\HeapSort\\Heap.cs",
+              "RelativeDocumentMoniker": "HeapSort\\Heap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\HeapSort\\Heap.cs",
+              "RelativeToolTip": "HeapSort\\Heap.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:55:27.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\HeapSort\\Program.cs",
+              "RelativeDocumentMoniker": "HeapSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\HeapSort\\Program.cs",
+              "RelativeToolTip": "HeapSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:54:33.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SiftAl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SiftAlgorithm\\SiftAl.cs",
+              "RelativeDocumentMoniker": "SiftAlgorithm\\SiftAl.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SiftAlgorithm\\SiftAl.cs",
+              "RelativeToolTip": "SiftAlgorithm\\SiftAl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:52:23.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SiftAlgorithm\\Program.cs",
+              "RelativeDocumentMoniker": "SiftAlgorithm\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SiftAlgorithm\\Program.cs",
+              "RelativeToolTip": "SiftAlgorithm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:51:59.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StepSearchExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\StepSearch\\StepSearchExample.cs",
+              "RelativeDocumentMoniker": "StepSearch\\StepSearchExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\StepSearch\\StepSearchExample.cs",
+              "RelativeToolTip": "StepSearch\\StepSearchExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:57:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\StepSearch\\Program.cs",
+              "RelativeDocumentMoniker": "StepSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\StepSearch\\Program.cs",
+              "RelativeToolTip": "StepSearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:57:34.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SequentialSearchExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SequentialSearch\\SequentialSearchExample.cs",
+              "RelativeDocumentMoniker": "SequentialSearch\\SequentialSearchExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SequentialSearch\\SequentialSearchExample.cs",
+              "RelativeToolTip": "SequentialSearch\\SequentialSearchExample.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:48:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SequentialSearch\\Program.cs",
+              "RelativeDocumentMoniker": "SequentialSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\SequentialSearch\\Program.cs",
+              "RelativeToolTip": "SequentialSearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:48:33.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InsertionSortExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\InsertionSort\\InsertionSortExample.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\InsertionSortExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\InsertionSort\\InsertionSortExample.cs",
+              "RelativeToolTip": "InsertionSort\\InsertionSortExample.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:27:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\InsertionSort\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\InsertionSort\\Program.cs",
+              "RelativeToolTip": "InsertionSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:27:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BubbleSortExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\BubbleSortExample.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\BubbleSortExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\BubbleSortExample.cs",
+              "RelativeToolTip": "BubbleSort\\BubbleSortExample.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:21:16.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:20:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FindMinimumExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FindMinimum\\FindMinimumExample.cs",
+              "RelativeDocumentMoniker": "FindMinimum\\FindMinimumExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FindMinimum\\FindMinimumExample.cs",
+              "RelativeToolTip": "FindMinimum\\FindMinimumExample.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:09:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FindMinimum\\Program.cs",
+              "RelativeDocumentMoniker": "FindMinimum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\FindMinimum\\Program.cs",
+              "RelativeToolTip": "FindMinimum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:07:46.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Fibonacci\\Program.cs",
+              "RelativeToolTip": "Fibonacci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:23:35.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FibonacciSearchExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Fibonacci\\FibonacciSearchExample.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\FibonacciSearchExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Fibonacci\\FibonacciSearchExample.cs",
+              "RelativeToolTip": "Fibonacci\\FibonacciSearchExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:23:22.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\Program.cs",
+              "RelativeDocumentMoniker": "Binary\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\Program.cs",
+              "RelativeToolTip": "Binary\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:19:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BinarySearchExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\BinarySearchExample.cs",
+              "RelativeDocumentMoniker": "Binary\\BinarySearchExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\Binary\\BinarySearchExample.cs",
+              "RelativeToolTip": "Binary\\BinarySearchExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:14:09.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\MergeSortExample\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSortExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\MergeSortExample\\Program.cs",
+              "RelativeToolTip": "MergeSortExample\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:08:54.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MergeSortExample.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\MergeSortExample\\MergeSortExample.cs",
+              "RelativeDocumentMoniker": "MergeSortExample\\MergeSortExample.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\AS\\MergeSorting\\MergeSortExample\\MergeSortExample.cs",
+              "RelativeToolTip": "MergeSortExample\\MergeSortExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:59:03.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
